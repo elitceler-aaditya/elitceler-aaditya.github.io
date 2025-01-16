@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/ambulance.env": "26b3216d4568316d71b34167ef76ced9",
+const RESOURCES = {"assets/ambulance.env": "dd9f1d9232957ebec8da7bf05947c345",
 "assets/AssetManifest.bin": "6b32de5600d5ec924aeaed2672be1b2d",
 "assets/AssetManifest.bin.json": "32c65fcdd59ecf220943d021fbb7a55f",
 "assets/AssetManifest.json": "733457deaa8c2193d68700bafe6fd14f",
@@ -57,7 +57,7 @@ const RESOURCES = {"assets/ambulance.env": "26b3216d4568316d71b34167ef76ced9",
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "d8136e56f4538616b98076a8b20e223e",
+"flutter_bootstrap.js": "7c118364e1a0ac8a4a8542e58476da3e",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
