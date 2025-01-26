@@ -64,7 +64,7 @@ const RESOURCES = {"assets/ambulance.env": "dd9f1d9232957ebec8da7bf05947c345",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "8233cf820178860452f793a953799d81",
 "/": "8233cf820178860452f793a953799d81",
-"main.dart.js": "b52e60bbe37ce853db498fb44dc54405",
+"main.dart.js": "a9efc220bcfb9dda66ed7397b7d485f1",
 "manifest.json": "bb912daf18a1717be36b7c6f53864126",
 "version.json": "642d6142753935b731cab482ba523d58"};
 // The application shell files that are downloaded before a service worker can
